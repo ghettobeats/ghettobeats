@@ -40,7 +40,7 @@ Soy desarrollador full stack con experiencia en **backend** y **frontend**. Me e
 ---
 
 ## 📈 Estadísticas de GitHub
-![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=radical)
+![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=GHETTOBEATS&show_icons=true&theme=react)
 
 ---
 
