@@ -24,6 +24,14 @@ Soy desarrollador full stack con experiencia en **backend** y **frontend**. Me e
 
 ---
 
+### 🚀 **Habilidades Adicionales:**
+
+- **Arquitecturas:** Microservicios, APIs RESTful, GraphQL
+- **Gestión de bases de datos:** Diseño de esquemas y optimización de consultas SQL, implementación de bases de datos NoSQL
+- **Automatización de despliegue y DevOps:** Integración y despliegue continuo con **Docker**, **Git**, **CI/CD**
+
+---
+
 🎯 Mi objetivo es desarrollar soluciones tecnológicas innovadoras, colaborando en equipos para enfrentar retos complejos.
 
 ---
@@ -41,15 +49,6 @@ Soy desarrollador full stack con experiencia en **backend** y **frontend**. Me e
 
 ## 📈 Estadísticas de GitHub
 ![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=GHETTOBEATS&show_icons=true&theme=react)
-
----
-
-
-### 🚀 **Habilidades Adicionales:**
-
-- **Arquitecturas:** Microservicios, APIs RESTful, GraphQL
-- **Gestión de bases de datos:** Diseño de esquemas y optimización de consultas SQL, implementación de bases de datos NoSQL
-- **Automatización de despliegue y DevOps:** Integración y despliegue continuo con **Docker**, **Git**, **CI/CD**
 
 ---
 
