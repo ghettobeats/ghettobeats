@@ -57,8 +57,8 @@ Soy desarrollador full stack con experiencia en **backend** y **frontend**. Me e
 
 - **LinkedIn:** [antoniopeacuevas](https://www.linkedin.com/in/antoniopeacuevas/)
 - **GitHub:** [ghettobeats](https://github.com/ghettobeats)
-- **Correo Electrónico:** [antoniopeacuevas@gmail.com]
-- **BUYME A COFFE:** [ghettobeats] (https://www.buymeacoffee.com/ghettobeats)
+- **Correo Electrónico:** [gmail](antoniopeacuevas@gmail.com)
+- **buymeacoffee:** [ghettobeats](https://www.buymeacoffee.com/ghettobeats)
 
 ---
 
