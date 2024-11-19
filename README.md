@@ -1,4 +1,3 @@
-
 ## 🚀 Sobre mí
 Soy desarrollador full stack con experiencia en **backend** y **frontend**. Me especializo en crear aplicaciones escalables utilizando diversas tecnologías.
 
